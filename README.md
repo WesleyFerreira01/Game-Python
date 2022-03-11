@@ -7,3 +7,4 @@
 4. Acertando ou errando, ele poderá ou não continuar o jogo.
 
 ###  Exemplo:
+![jogo](https://user-images.githubusercontent.com/79551562/157936564-8ae2f758-be72-43fa-a623-1f248894de2f.png)
